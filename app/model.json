@@ -135,6 +135,13 @@
                         "required": true
                     },
                     {
+                        "id": "comment",
+                        "type": "text",
+                        "name": "Comment",
+                        "width": 2,
+                        "required": true
+                    },
+                    {
                         "type": "deleteButton",
                         "name": "Delete"
                     },
